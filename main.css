@@ -8,3 +8,57 @@ header h1 {
   background-color: white;
   padding: 2%;
 }
+
+p {
+  color: white;
+  font-family: sans-serif;
+  padding: 1%;
+}
+
+.fourteen {
+  background-color: #0D47A1;
+  margin: 0;
+}
+
+.thirteen {
+  background-color: #1565C0;
+  margin: 0;
+}
+
+.twelve {
+  background-color: #1976D2;
+}
+
+.eleven {
+  background-color: #1E88E5;
+}
+
+.ten {
+  background-color: #2196F3;
+}
+
+.nine {
+  background-color: #42A5F5;
+}
+
+.eight {
+  background-color: #64B5F6;
+}
+
+.seven {
+  background-color: #43A047;
+}
+
+.six {}
+
+.five {}
+
+.four {}
+
+.three {}
+
+.two {}
+
+.one {}
+
+.zero {}
