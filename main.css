@@ -1,6 +1,7 @@
 body {
   background-color: lightgray;
   margin: 5%;
+  font-size: 2em;
 }
 
 header h1 {
@@ -88,4 +89,10 @@ p {
 .zero {
   background-color: #FF0000;
   margin: 0;
+}
+
+@media (min-width: 360px) {
+  body {
+    font-size: 1em;
+  }
 }
