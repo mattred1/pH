@@ -27,38 +27,65 @@ p {
 
 .twelve {
   background-color: #1976D2;
+  margin: 0;
 }
 
 .eleven {
   background-color: #1E88E5;
+  margin: 0;
 }
 
 .ten {
   background-color: #2196F3;
+  margin: 0;
 }
 
 .nine {
   background-color: #42A5F5;
+  margin: 0;
 }
 
 .eight {
   background-color: #64B5F6;
+  margin: 0;
 }
 
 .seven {
   background-color: #43A047;
+  margin: 0;
 }
 
-.six {}
+.six {
+  background-color: #FFDFDF;
+  margin: 0;
+}
 
-.five {}
+.five {
+  background-color: #FFBFBF;
+  margin: 0;
+}
 
-.four {}
+.four {
+  background-color: #FF9F9F;
+  margin: 0;
+}
 
-.three {}
+.three {
+  background-color: #FF8080;
+  margin: 0;
+}
 
-.two {}
+.two {
+  background-color: #FF6060;
+  margin: 0;
+}
 
-.one {}
+.one {
+  background-color: #FF4040;
+  margin: 0;
+}
 
-.zero {}
+.zero {
+  background-color: #FF0000;
+  margin: 0;
+}
